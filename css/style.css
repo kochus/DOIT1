@@ -1,0 +1,235 @@
+@charset "utf-8";
+/* CSS Document */
+body
+	{
+		background-color:#FFFFFF; 
+		
+	}
+	
+	
+		
+	#container{
+	background-color:#16B8C0;
+	height:95px;
+				
+				
+				 margin: 0;
+    			padding: 0;
+			
+				}
+				#logo{
+						background-image:url(../img/home_mobile_logo.jpg );
+   			 			height: 95px;  
+   			 			width: 260px;
+						margin-top:0px;
+						margin-left:0px;
+					   
+          		 }  
+				 #menus{
+				 width:auto;
+				
+    			padding: 0;
+				margin-top:0px;		
+						
+					}
+				#menu{
+						
+						 background-color: #3399FF;
+    					border: 1px solid #999999;
+						color: #222222;
+						display: block;
+						font-size: 14px;
+						font-weight: bold;
+						margin-bottom: -1px;
+						padding: 12px 10px;
+						text-decoration: none;
+						text-align:center;
+											
+						
+					}
+					#m1{
+						
+						background-color:#CC0033;
+    					border: 1px solid #999999;
+						color: #222222;
+						display: block;
+						font-size: 14px;
+						font-weight: bold;
+						margin-bottom: -1px;
+						padding: 12px 10px;
+						text-decoration: none;text-align:center;
+						
+					}
+					#m2{
+				
+						background-color: #70A704;
+    					border: 1px solid #999999;
+						color: #222222;
+						display: block;
+						font-size: 14px;
+						font-weight: bold;
+						margin-bottom: -1px;
+						padding: 12px 10px;
+						text-decoration: none;text-align:center;
+						
+					}
+					#m3{
+						
+						
+						background-color: #FF6633;
+    					border: 1px solid #999999;
+						color: #222222;
+						display: block;
+						font-size: 14px;
+						font-weight: bold;
+						margin-bottom: -1px;
+						padding: 12px 10px;
+						text-decoration: none;text-align:center;}
+						#content
+						{
+						height:300px;
+						width:300px;
+					
+						}
+						#footer {
+						 color: #fff; 
+						 background-color:#CC0000;
+						 width:auto; 
+						 height: 20px;
+						 word-spacing:10px;
+						 
+						 clear: both; 
+						 margin: 0 auto; 
+						 padding: 0;
+			
+			}		
+			p
+			{
+			text-align:justify;
+			height:50px;
+			width:300px;
+			font-size:10px;
+			/*padding-left:30px;*/
+			}
+			/*#progress {
+    -webkit-border-radius: 10px;
+    background-color: rgba(0,0,0,.7);
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    height: 80px;
+    left: 60px;
+    line-height: 80px;
+    margin: 0 auto;
+    position: absolute;
+    text-align: center;
+    top: 120px;
+    width: 200px;
+}	*/
+					
+#menu1{
+						
+						 background-color: #3399FF;
+    					border: 1px solid #999999;
+						color: #222222;
+						display: block;
+						font-size:9px;
+						font-weight: bold;
+						margin-bottom: -1px;
+						padding: 12px 10px;
+						text-decoration: none;
+						/*text-align:center;*/
+						width:55px;
+											
+						
+					}
+										
+#menu2{
+						
+						 background-color: #3399FF;
+    					border: 1px solid #999999;
+						color: #222222;
+						display: block;
+						font-size: 9px;
+						font-weight: bold;
+						margin-bottom: -1px;
+						padding: 12px 10px;
+						text-decoration: none;
+					/*	text-align:center;*/
+						width:55px;
+						margin-left:75px;
+						margin-top:-38px;
+											
+						
+					}
+					#menu3{
+						
+						 background-color: #3399FF;
+    					border: 1px solid #999999;
+						color: #222222;
+						display: block;
+						font-size: 9px;
+						font-weight: bold;
+						margin-bottom: -1px;
+						padding: 12px 10px;
+						text-decoration: none;
+						/*text-align:center;*/
+						width:50px;
+						margin-left:152px;
+						margin-top:-38px;
+											
+						
+					}
+					#menu4{
+						
+						 background-color: #3399FF;
+    					border: 1px solid #999999;
+						color: #222222;
+						display: block;
+						font-size: 9px;
+						font-weight: bold;
+						margin-bottom: -1px;
+						padding: 12px 10px;
+						text-decoration: none;
+						
+						width:61px;
+						margin-left:223px;
+						margin-top:-38px;
+											
+						
+					}
+					#web1
+					{
+					background-image:url(../img/do_it_solutions_packages_box_websuper.jpg );
+   			 			height: 95px;  
+   			 			width: 90px;
+						font-size:12px;
+						text-align:center;
+						/*margin-top:0px;
+						margin-left:0px;*/
+					}
+					#web2
+					{
+					background-image:url(../img/do_it_solutions_packages_box_web.jpg );
+   			 			height: 95px;  
+   			 			width: 90px;
+						margin-top:-95px;
+						margin-left:100px;
+						font-size:12px;
+						text-align:center;
+						
+					}
+					
+					#web3
+					{
+					background-image:url(../img/do_it_solutions_packages_box_weblite.jpg );
+   			 			height: 95px;  
+   			 			width: 90px;
+						margin-top:-95px;
+						margin-left:200px;
+						text-align:left;
+						font-size:12px;
+						text-align:center;
+					
+												
+					}
